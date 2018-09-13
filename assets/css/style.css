@@ -159,6 +159,10 @@ h2 {
     margin: 20px 0 25px;
     overflow: auto;
 }
+img {
+    width: 100px;
+    height: 220px;
+}
 
 .work:nth-child(even) {
     margin-right: 40px;
